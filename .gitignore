@@ -1,0 +1,11 @@
+mini_dataset/
+data/
+runs/
+.venv/
+.idea/
+.ipynb_checkpoints/
+*.json
+*.geojson
+*.png
+*.jpg
+*.pt

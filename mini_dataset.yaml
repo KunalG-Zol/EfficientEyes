@@ -1,0 +1,7 @@
+
+path: D:\Main Projects\EfficientEyes\mini_dataset # Absolute path to dataset
+train: images  # Train images (relative to 'path')
+val: images    # Val images (using same 100 images for the Overfit Test)
+
+names:
+  0: plane
