@@ -1,5 +1,5 @@
 mini_dataset/
-data/
+dataset/
 runs/
 .venv/
 .idea/
