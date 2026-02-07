@@ -5,8 +5,8 @@ from tqdm import tqdm
 
 # --- CONFIGURATION ---
 JSON_FILE = 'RarePlanes_Train_Coco_Annotations_tiled.json'
-IMAGE_DIR = './mini_dataset/images/'
-LABEL_DIR = './mini_dataset/labels/'
+IMAGE_DIR = './dataset/images/'
+LABEL_DIR = './dataset/labels/'
 
 
 def create_labels():
